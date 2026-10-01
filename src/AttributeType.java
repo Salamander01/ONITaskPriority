@@ -1,0 +1,14 @@
+enum AttributeType {
+    EXCAVATION,
+    LIFE_SUPPORT,
+    TOGGLE,
+    MEDICINE,
+    STRENGTH,
+    CUISINE,
+    CREATIVITY,
+    SCIENCE,
+    MACHINERY,
+    AGRICULTURE,
+    HUSBANDRY,
+    CONSTRUCTION
+}
